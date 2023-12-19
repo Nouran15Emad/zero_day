@@ -30,8 +30,4 @@ What you should learn from this project:
 
 ### [1. Hello Ubuntu](./0-hello_ubuntu)
 * Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory. 
-
----
-
-## Author
-* **Victor Hernandez** - [vik407](https://github.com/vik407)
+)
